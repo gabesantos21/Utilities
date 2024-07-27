@@ -1,4 +1,4 @@
-# Simple utility frontend
+# Simple frontend application
 
 > A simple frontend that lays out 15 random tasks on page load. Users can export the data in CSV, JSON, or simply print in the console.
 
