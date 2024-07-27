@@ -15,7 +15,7 @@
 4. Access [http://localhost:3000](http://localhost:3000)
 
 ### Features
-*can be applied individually in each random task*
+*can be applied individually for each random task (CSV, JSON, Console)*
 - Action buttons:
     - Download All as CSV
     - Download All as JSON
