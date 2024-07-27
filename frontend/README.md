@@ -1,4 +1,4 @@
-# Simple utility frontend
+# Simple frontend application
 
 > A simple frontend that lays out 15 random tasks on page load. Users can export the data in CSV, JSON, or simply print in the console.
 
@@ -15,7 +15,7 @@
 4. Access [http://localhost:3000](http://localhost:3000)
 
 ### Features
-*can be applied individually in each random task*
+*can be applied individually for each random task (CSV, JSON, Console)*
 - Action buttons:
     - Download All as CSV
     - Download All as JSON

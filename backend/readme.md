@@ -26,7 +26,7 @@ _For example:_
 
 #### Default Values
 
-_If args are not supplied:_
+_If args are not supplied, these args will be default as:_
 
 `n` = 1
 
